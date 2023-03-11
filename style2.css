@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(156, 117, 117);
+  background-image: url(images2/pexels.jpg);
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  
+  
+}
+.main{
+  height: 600px;
+}
+
+
+.navBar {
+  padding: 1px 1px;
+  width: 60%;
+  text-align:right;
+}
+
+h1 {
+  margin: 0 auto;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 22-x;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style:none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 13px;
+  position: relative;
+}
+
+
+
